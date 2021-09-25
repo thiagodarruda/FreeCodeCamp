@@ -1,10 +1,7 @@
 # FreeCodeCamp - Tribute Page
 
-EM DESENVOLVIMENTO.
+- Exercicio de website responsivo em HTML e CSS, desenvolvido após estudos na plataforma Free Code Camp.
 
-criar uma aplicação no CodePen.io que tenha função semelhante a esta: https://codepen.io/freeCodeCamp/full/zNqgVx.
+Criar uma aplicação no CodePen.io que tenha função semelhante a esta: https://codepen.io/freeCodeCamp/full/zNqgVx.
 
-Pagina de tributo a Steve Jobs, fundador da Apple.
-
-- HTML
-- CSS
+## Página de tributo a Steve Jobs, fundador da Apple.
